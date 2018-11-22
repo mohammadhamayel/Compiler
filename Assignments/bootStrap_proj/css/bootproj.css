@@ -1,0 +1,51 @@
+
+@media(min-width: 750px){
+	.RecentPost {
+		text-align: center;
+		size: 20%;
+}
+	.photo{
+	text-align: center;
+}
+}
+.post{
+		color: white;
+		margin-top: 10px;
+			
+}
+
+
+div div p,div div hr {
+	margin-bottom: 2px;
+	margin-top: 10px;
+
+}
+.navbar {
+	margin-bottom: 0px;
+	min-height: 50px
+}
+.down{
+	text-align: center;
+	background-color: #110754;
+	margin-bottom: 10px
+		
+}
+
+.navbar-nav li .hed{
+    padding: 10px 15px 10px 15px ;
+
+}
+main{
+	margin: 15px 1px 15px 1px ;
+}
+div ul{
+	list-style-type:none
+	}
+div .btm{
+	padding: 2px 30px ;
+	margin :0px 4px 2px 4px;
+	background-color: white;
+}
+.panel .panel-heading ,.topHeaderRow .bos{
+	background-color: #110754 ;
+}

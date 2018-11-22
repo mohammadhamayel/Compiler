@@ -1,0 +1,80 @@
+h1{
+	text-align: center;font-style: italic;background: #333;padding: 20px ;margin: 0;color: #fff
+}
+p{
+	font-style: oblique;font-size: 18px
+}
+.new {
+	color: red;
+}
+legend{
+	font-size: 20px;font-style: inherit;background: #aa5;border-color: #aa3;border: inherit;
+}
+nav{
+	background: #DDD;padding: 0;margin: 0
+}
+#owner{
+	display: inline-block ;margin-right: 50px;background: none;
+}
+nav ul {
+	list-style: none;padding: 0;margin: 0;text-align: center;
+}
+nav ul li{
+	display: inline-block;padding: 10px 20px 10px;
+}
+.copyright{
+	background: #f75 ;margin: 0;padding: 10px
+}
+a{
+	color: blue;
+}
+a:visited{
+	color: green;
+}
+a:hover {
+	background: #ad2;color: brown;
+}
+a.sale{
+	font-size:50px;color :maroon;
+	text-decoration-color: black;	
+}
+a.outref{
+	color :#010;font-size: 20px;font-style: oblique;
+}
+img:hover{
+	border: thick;border-color: #111;padding: 5px;border-left: thick;border-right: thick;
+}
+ul{
+	list-style-image:url('../images/iconimg.png'); 
+}
+ul ul{
+	list-style-image:url('../images/innericon.png'); 
+}
+ol{
+	list-style-type: amharic;
+}
+ol ol{
+	list-style-type: upper-alpha;
+}
+.mail{
+	list-style-image: url('../images/iconmail.png');
+	font-size: 20px;color: #611;text-decoration:none;
+}
+#bakri{
+	font-style: italic;font-size: 20px;color: yellow;font-family: serif;margin-left: 200px
+}
+header{
+	border: ridge;background: forestgreen;border-color: #101
+}
+#bakripic{
+	text-align: center;margin-left: 100px;margin-bottom: 20px
+}
+#headnav{
+	border: dotted;
+}
+nav+nav{
+	background: #adc;
+}
+.nav ul li a{
+	color: indigo;text-decoration: none;padding: 10px 20px 10px 20px;
+}
